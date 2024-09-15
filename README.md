@@ -9,7 +9,7 @@ There are 2 main scripts in this codebase:
 1) "main_rag_auto_pytorch.ipynb" wich is a local RAG implementation using pytorch, huggingface transformers library and a pytorch vectorestore.
 2) "main_rag_auto_langchain.ipynb" wich is a local RAG implementation using huggingface transformers library, langchain and pinecone as the vectorestore.
 
-Bellow you can see an example of the "RAG Auto Legislation" answering a legislation question.
+Bellow you can see an example of the "RAG Auto Legislation" answering a legislation question:
 
 ![image](https://github.com/user-attachments/assets/ce2649a1-4ca6-4715-8dd7-c9bd32160b40)
 
